@@ -25,7 +25,7 @@ This project was implemented in C# using monogame.
 #### Result of clicking 'execute phishing attack' button
 ![phishing attack](./images/execute_phishing_attack_button_result.png)
 #### Scoring system screen
-The below screen could be seen if the 'view scoring system' button was selected
+The below screen could be seen if the 'view scoring system' button was selected<br>
 ![Scoring system](./images/view_scoring_system_button.png)
 
 ## Improvements:
