@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aliso/Desktop/simulation with full device details/simulation with full device details/Content/Font.spritefont</File>
+    <File>C:/Users/aliso/Desktop/simulation with full device details/simulation with full device details/Content/computerResized.png</File>
+    <File>C:/Users/aliso/Desktop/simulation with full device details/simulation with full device details/Content/t1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

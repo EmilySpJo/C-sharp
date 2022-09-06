@@ -1,0 +1,16 @@
+CEO,true,true,false,true
+CFO,true,true,true,true
+CTO,true,true,true,false
+Executive,true,true,true,false
+HR,false,true,false,true
+manager,true,true,true,true
+manager,false,true,true,false
+Accountants,false,true,false,true
+sales Representative,true,false,true,false
+admin,true,false,true,false
+admin,true,true,false,true
+retail worker,true,false,true,false
+retail worker,true,false,false,true
+self employed,true,false,true,true
+self employed,true,false,true,false
+self employed,true,false,true,false
